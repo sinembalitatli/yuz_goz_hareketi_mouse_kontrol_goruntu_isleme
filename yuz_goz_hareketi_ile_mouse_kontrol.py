@@ -1,4 +1,4 @@
-
+#!!!!Çalıştırmadan önce Datasets kısmına https://github.com/iparaskev/simple-blink-detector/blob/master/detector/shape_predictor_68_face_landmarks.dat adresindeki data seti dahil etmelisiniz
 import cv2
 import dlib
 from imutils import face_utils

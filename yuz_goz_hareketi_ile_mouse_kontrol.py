@@ -26,7 +26,7 @@ def lefteyeAspectRatio(eyePoints):
     horizontalLine=distance.euclidean(eyePoints[0], eyePoints[3])
     earleft=(verticaLine1+verticaLine2)/(2*horizontalLine)
     return earleft
-cap=cv2.VideoCapture(0)
+
 def botheyeAspectRatio(eyePoints):
     verticaLine1=distance.euclidean(eyePoints[1], eyePoints[5])
     verticaLine2=distance.euclidean(eyePoints[2], eyePoints[4])

@@ -1,4 +1,3 @@
-###iki göz kırpma ayrım işlemleri tanımlandı 
 
 import cv2
 import dlib

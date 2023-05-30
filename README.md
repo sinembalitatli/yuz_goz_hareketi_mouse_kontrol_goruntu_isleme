@@ -13,4 +13,4 @@ SOL TIK İŞLEMİ:   Sol gözün bir kere kırpılması
                                    
 ÇİFT TIKLAMA İŞLEMİ :İki gözün  bir kere kırpılması
                                        
-Öneri:Mouse hakimiyetini kaybettiiz zaman  veya tekrar normal mouse kullanmak istediğinizde q tuşuna basın
+Öneri:Mouse hakimiyetini kaybettiğiniz zaman  veya tekrar normal mouse kullanmak istediğinizde q tuşuna basın

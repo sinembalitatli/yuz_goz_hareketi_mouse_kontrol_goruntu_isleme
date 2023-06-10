@@ -1,5 +1,5 @@
 # yuz_goz_hareketi_mouse_kontrol
-Çalıştırmadan önce BİLGİLENDİRME  dosyasındaki veri setlerini import etmelisiniz
+!!!Çalıştırmadan önce BİLGİLENDİRME  dosyasındaki veri setlerini import etmelisiniz
 
 Yüz ve göz hareketleri ile temel seviye sağ, sol ve çift tık mouse işlemlerini gerçekleştirebilirsiniz.
 

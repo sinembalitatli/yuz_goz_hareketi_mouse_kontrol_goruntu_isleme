@@ -1,0 +1,5 @@
+Datasetlerin boyutları çok büyük olduğu için  dataset klasörü içersine ekleyemedim
+Çalıştırmadan önce Datasets klasörü oluşturup
+https://github.com/iparaskev/simple-blink-detector/blob/master/detector/shape_predictor_68_face_landmarks.dat   
+https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalcatface.xml
+ adreslerindeki  data setlerini dahil etmelisiniz
